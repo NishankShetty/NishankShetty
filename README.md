@@ -1,4 +1,5 @@
-Hey there! I'm a passionate front-end developer with a knack for creating beautiful, responsive, and interactive web experiences. My journey in the world of web development is like a never-ending coding adventure, filled with creativity and a sprinkle of technical wizardry.
+##Hey there! 
+I'm a passionate front-end developer with a knack for creating beautiful, responsive, and interactive web experiences. My journey in the world of web development is like a never-ending coding adventure, filled with creativity and a sprinkle of technical wizardry.
 
 ✨ Frontend Magician ✨ I love turning pixels into user-friendly magic. My toolkit includes React, Zustand, and a penchant for fancy design elements that make users go "Wow!".
 
